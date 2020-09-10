@@ -14,5 +14,8 @@
   "bugs": {
     "url": "https://github.com/candid-code/tdd-mini-games/issues"
   },
-  "homepage": "https://candidcode.net/tdd-mini-games"
+  "homepage": "https://candidcode.net/tdd-mini-games",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
 }
