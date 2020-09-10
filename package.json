@@ -1,21 +1,23 @@
 {
-  "name": "tdd-mini-games",
-  "version": "1.0.0",
-  "description": "A few simple games to demo TDD",
-  "scripts": {
-    "test": "jest"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/candid-code/tdd-mini-games.git"
-  },
-  "author": "Andrew Burgess",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/candid-code/tdd-mini-games/issues"
-  },
-  "homepage": "https://candidcode.net/tdd-mini-games",
-  "devDependencies": {
-    "jest": "^26.4.2"
-  }
+    "name": "tdd-mini-games",
+    "version": "1.0.0",
+    "description": "A few simple games to demo TDD",
+    "scripts": {
+        "test": "jest",
+        "format": "prettier --write ."
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/candid-code/tdd-mini-games.git"
+    },
+    "author": "Andrew Burgess",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/candid-code/tdd-mini-games/issues"
+    },
+    "homepage": "https://candidcode.net/tdd-mini-games",
+    "devDependencies": {
+        "jest": "^26.4.2",
+        "prettier": "2.1.1"
+    }
 }
